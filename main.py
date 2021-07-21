@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
 import os
-import sqlite3
 from dotenv import dotenv_values
 
 config = dotenv_values(".env")
